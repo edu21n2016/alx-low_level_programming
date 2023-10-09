@@ -25,7 +25,5 @@ int main(void)
         {
                 printf("%d is negativie\n", n);
         }
-
-	/* your code goes there */
 	return (0);
 }
