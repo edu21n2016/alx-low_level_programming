@@ -1,4 +1,4 @@
-{#include <stsio.h>
+#include <stsio.h>
 /**
  * main - A program that prints  the size of various computer type
  * Return: 0 (Success)
