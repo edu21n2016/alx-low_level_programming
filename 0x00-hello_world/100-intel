@@ -1,2 +1,2 @@
-1 #!/bin/bash
-2 gcc -S -masm=intel $CFILE
+ 1 #!/bin/bash
+ 2 gcc -S -masm=intel $CFILE
